@@ -1,0 +1,3 @@
+1. Write scripts for length based text splitting, text structure based splitting and Document structure based splitting.
+# text structure based splitting and Document structure based splitting use same class RecursiveCharacterTextSplitter with slight change in code.
+# Semantic meaning based text splititng couldn't be implemented because probably class has been removed or moved in other some module in newer versions of LangChain.
